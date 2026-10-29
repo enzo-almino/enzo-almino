@@ -40,7 +40,6 @@ te força a pensar diferente.
 
 - 🎓 Cursando ADS na UniFAP
 - 🌐 Desenvolvendo habilidades em desenvolvimento web
-- 🔍 Explorando diferentes áreas para encontrar minha especialização
 
 ---
 
