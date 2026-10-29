@@ -22,15 +22,18 @@ te força a pensar diferente.
 
 ## 🛠️ Tecnologias
 
-**Front-end**
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]
+### Front-end
 
-**Back-end**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Back-end
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 ---
 
 ## 📌 Atualmente
@@ -41,7 +44,22 @@ te força a pensar diferente.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzo-almino&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-almino&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 📬 Contato
 
-[![Email](https://img.shields.io/badge/Email-enzoalminolima@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:enzoalminolima@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@e.almino_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+<p align="left">
+  <a href="https://github.com/enzo-almino">
+    <img src="https://img.shields.io/badge/GitHub-ENZO-ALMINO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/e.almino_/">
+    <img src="https://img.shields.io/badge/Instagram-@E.ALMINO_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
