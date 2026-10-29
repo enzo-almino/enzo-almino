@@ -44,21 +44,9 @@ te força a pensar diferente.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzo-almino&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-almino&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📬 Contato
 
 <p align="left">
-  <a href="https://github.com/enzo-almino">
-    <img src="https://img.shields.io/badge/GitHub-ENZO-ALMINO-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="https://www.instagram.com/e.almino_/">
     <img src="https://img.shields.io/badge/Instagram-@E.ALMINO_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
